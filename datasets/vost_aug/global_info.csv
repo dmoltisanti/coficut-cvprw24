@@ -1,0 +1,5 @@
+inpaint_kernel_shape,ellipse
+inpaint_kernel_size,15
+inpaint_n_iterations,3
+frame_number,0
+regular,True

@@ -1,0 +1,21 @@
+name: coficut-cvprw24
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.8
+  - opencv==4.6.0
+  - scipy==1.10.1
+  - matplotlib
+  - numpy
+  - pandas
+  - pillow
+  - pip
+  - tqdm
+  - scikit-learn
+  - pip:
+    - lama-cleaner
+    - torch
+    - torchvision
+    - chardet
+    - tensorboard

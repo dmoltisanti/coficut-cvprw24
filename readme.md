@@ -19,7 +19,7 @@ year = {2024}}
 
 ### Read the paper
 
-You can find our paper on [arXiv]().
+You can find our paper on [arXiv](https://arxiv.org/abs/2405.07723).
 
 ### Authors
 
